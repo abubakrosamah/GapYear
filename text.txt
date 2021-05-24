@@ -1,1 +1,3 @@
-word
+body {
+  background-color:blue;
+}
