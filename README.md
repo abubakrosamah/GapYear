@@ -23,5 +23,5 @@ npx start
 
 ## Contribution guide
 ```
-git clone 
+git clone https://github.com/abubakrosamah/GapYear.git
 ```
