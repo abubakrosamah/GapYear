@@ -15,7 +15,7 @@
 ## How to run it?
 #### requires [Node.js](https://nodejs.org/en/download/) Latest LTS Version: 14.17.0 to run.
 ```
-cd pomodoro
+cd git clone https://github.com/the-sol/pomodoro.git
 ```
 ```
 npx start
@@ -23,5 +23,5 @@ npx start
 
 ## Contribution guide
 ```
-git clone https://github.com/the-sol/pomodoro.git
+
 ```
