@@ -1,5 +1,5 @@
 # Promodoro Project
-![1_fmgrekfaMP1a3EvzsdJ4Yw](https://user-images.githubusercontent.com/69774407/119628163-83d07700-be15-11eb-888a-ffd75cb67417.png)
+![61FE+AqUIoL](https://user-images.githubusercontent.com/69774407/119630519-b11e2480-be17-11eb-8f89-f1179db1948e.png)
 
 ## The Pomodoro Technique is a time management method.
 #### The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. Each interval is known as a pomodoro, from the Italian word for 'tomato', after the tomato-shaped kitchen timer that Cirillo used as a university student.
