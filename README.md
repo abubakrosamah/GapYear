@@ -1,4 +1,4 @@
-# Promodoro Project
+# Pomodoro Project
 
 <img src="https://user-images.githubusercontent.com/69774407/119630519-b11e2480-be17-11eb-8f89-f1179db1948e.png" width="100" height="100">
 
@@ -15,7 +15,7 @@
 ## How to run it?
 #### requires [Node.js](https://nodejs.org/en/download/) Latest LTS Version: 14.17.0 to run.
 ```
-cd promodoro
+cd pomodoro
 ```
 ```
 npx start
@@ -23,5 +23,5 @@ npx start
 
 ## Contribution guide
 ```
-git clone https://github.com/abubakrosamah/GapYear.git
+git clone https://github.com/the-sol/pomodoro.git
 ```
